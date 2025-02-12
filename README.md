@@ -8,7 +8,7 @@ sdk_version: 5.15.0
 app_file: src/audiobox_aesthetics/demo.py
 pinned: false
 license: cc-by-4.0
-short_description: 'Audiobox-Aesthetics: Unified Automatic Quality Assessment for Speech, Music, and Sound'
+short_description: 'Unified Auto Quality Assessment for Speech, Music + Sound'
 ---
 
 
