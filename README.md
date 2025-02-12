@@ -1,3 +1,17 @@
+---
+title: Audiobox-Aesthetics
+emoji: 🎧
+colorFrom: gray
+colorTo: gray
+sdk: gradio
+sdk_version: 5.15.0
+app_file: src/audiobox_aesthetics/demo.py
+pinned: false
+license: cc-by-4.0
+short_description: 'Audiobox-Aesthetics: Unified Automatic Quality Assessment for Speech, Music, and Sound'
+---
+
+
 # audiobox-aesthetics
 
 Unified automatic quality assessment for speech, music, and sound.
